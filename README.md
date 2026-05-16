@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Hello+👋;I'm+Bhagyashree+Hegde;Aspiring+Developer;Welcome+to+my+GitHub!" />
 
 <h1>Bhagyashree Hegde</h1>
-<h3>🎓 BCA Student | Aspiring Developer</h3>
+<h3>🎓 MCA Student | Aspiring Developer</h3>
 
 </div>
 
