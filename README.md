@@ -26,7 +26,7 @@ Looking forward to gaining real-world experience.
   BCA – CGPA: 8.57  
 
 - **MPES SDM PU College**  
-  63.16%  
+  83.16%  
 
 - **Karavali High School**  
   85.92%  
